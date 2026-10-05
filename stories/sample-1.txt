@@ -1,0 +1,14 @@
+title: Sample: Flagship phone launches with a new chip
+slug: sample-flagship-phone
+category: Tech
+labels: smartphones, apple, chips
+keywords: new phone, flagship, launch
+date: 2026-10-05
+---
+This is a sample story. Delete the files in the stories folder and add your own.
+
+Each story is one text file: a header with title, slug, category, labels and keywords, then a line with three dashes, then the article body.
+
+## Why labels matter
+
+Stories that share labels appear under Related stories on each other's pages.

@@ -1,0 +1,9 @@
+title: Sample: Foldable phones get cheaper
+slug: sample-foldables
+category: Tech
+labels: smartphones, samsung, foldables
+date: 2026-10-04
+---
+Another sample story. It shares the label "smartphones" with the first one, so each will recommend the other.
+
+Replace this text with your own summary, in your own words, with your sources credited.

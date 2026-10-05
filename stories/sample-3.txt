@@ -1,0 +1,9 @@
+title: Sample: Phone prices and inflation
+slug: sample-phone-prices
+category: Economy
+labels: smartphones, inflation, prices
+date: 2026-10-03
+---
+A third sample, in a different category. It still links to the other two through the "smartphones" label.
+
+Labels connect stories across categories; categories group them in the menu.
