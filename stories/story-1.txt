@@ -1,0 +1,9 @@
+title: Your headline
+slug: short-name
+category: Sports
+labels: football, transfers, premier-league
+keywords: transfer news, premier league
+---
+First paragraph of the story.
+
+Second paragraph of the story.
